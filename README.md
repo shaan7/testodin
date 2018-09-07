@@ -1,2 +1,0 @@
-# testodin
-Test Odin Repo
